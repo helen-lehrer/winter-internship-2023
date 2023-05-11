@@ -36,6 +36,8 @@ _This is a full-stack application that uses Prisma/PostgreSQL for the database, 
 
 ## ✅ Description <a id="description"></a>
 
+![virtual multiplayer gameplay](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNjMjcwOWUxNmRjZjg5MjFlYjE0MzA2MWU5MTZlNjE2M2FjZWRkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7BqTU0nvMAutmp7qqh/giphy.gif)
+
 #### General Instructions:
 
 _Get ready for an exciting gaming experience with our web application inspired by Pac-Man and Mario Kart! This multiplayer game allows a group of up to 8 users to control Pac-Man and Ghost 'PaCarts', with each PaCart controlled by two players. One teammate controls up and down using the "W" and "S" keys, while the other controls left and right using "A" and "D" keys. Control of the PaCart switches between teammates after each move, requiring strategic planning and seamless coordination._
